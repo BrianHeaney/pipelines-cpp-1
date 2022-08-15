@@ -1,4 +1,6 @@
 
+See https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/windows/cpp?view=azure-devops Mirror of the Azure C++ example pipeline https://github.com/MicrosoftDocs/pipelines-cpp
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
